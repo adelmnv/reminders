@@ -1,0 +1,98 @@
+C:\Users\Professional\source\repos\WPF-Study\WPF-Study\bin\Debug\WPF-Study.exe.config
+C:\Users\Professional\source\repos\WPF-Study\WPF-Study\bin\Debug\WPF-Study.exe
+C:\Users\Professional\source\repos\WPF-Study\WPF-Study\bin\Debug\WPF-Study.pdb
+C:\Users\Professional\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF-Study.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\WPF-Study\WPF-Study\obj\Debug\MainWindow.g.cs
+C:\Users\Professional\source\repos\WPF-Study\WPF-Study\obj\Debug\App.g.cs
+C:\Users\Professional\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF-Study_MarkupCompile.cache
+C:\Users\Professional\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF-Study_MarkupCompile.lref
+C:\Users\Professional\source\repos\WPF-Study\WPF-Study\obj\Debug\MainWindow.baml
+C:\Users\Professional\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF-Study.g.resources
+C:\Users\Professional\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF_Study.Properties.Resources.resources
+C:\Users\Professional\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF-Study.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF-Study.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF-Study.exe
+C:\Users\Professional\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF-Study.pdb
+C:\Users\Professional\source\repos\WPF-Study\WPF-Study\obj\Debug\App.baml
+C:\Users\КожахметовН.ITSTEP.000\source\repos\WPF-Study\WPF-Study\bin\Debug\WPF-Study.exe.config
+C:\Users\КожахметовН.ITSTEP.000\source\repos\WPF-Study\WPF-Study\bin\Debug\WPF-Study.exe
+C:\Users\КожахметовН.ITSTEP.000\source\repos\WPF-Study\WPF-Study\bin\Debug\WPF-Study.pdb
+C:\Users\КожахметовН.ITSTEP.000\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF-Study.csprojAssemblyReference.cache
+C:\Users\КожахметовН.ITSTEP.000\source\repos\WPF-Study\WPF-Study\obj\Debug\App.g.cs
+C:\Users\КожахметовН.ITSTEP.000\source\repos\WPF-Study\WPF-Study\obj\Debug\MainWindow.g.cs
+C:\Users\КожахметовН.ITSTEP.000\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF-Study_MarkupCompile.cache
+C:\Users\КожахметовН.ITSTEP.000\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF-Study_MarkupCompile.lref
+C:\Users\КожахметовН.ITSTEP.000\source\repos\WPF-Study\WPF-Study\obj\Debug\App.baml
+C:\Users\КожахметовН.ITSTEP.000\source\repos\WPF-Study\WPF-Study\obj\Debug\MainWindow.baml
+C:\Users\КожахметовН.ITSTEP.000\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF-Study.g.resources
+C:\Users\КожахметовН.ITSTEP.000\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF_Study.Properties.Resources.resources
+C:\Users\КожахметовН.ITSTEP.000\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF-Study.csproj.GenerateResource.cache
+C:\Users\КожахметовН.ITSTEP.000\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF-Study.csproj.CoreCompileInputs.cache
+C:\Users\КожахметовН.ITSTEP.000\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF-Study.exe
+C:\Users\КожахметовН.ITSTEP.000\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF-Study.pdb
+C:\Users\Rr1c0\source\repos\WPF-Study\WPF-Study\bin\Debug\WPF-Study.exe.config
+C:\Users\Rr1c0\source\repos\WPF-Study\WPF-Study\bin\Debug\WPF-Study.exe
+C:\Users\Rr1c0\source\repos\WPF-Study\WPF-Study\bin\Debug\WPF-Study.pdb
+C:\Users\Rr1c0\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF-Study.csproj.AssemblyReference.cache
+C:\Users\Rr1c0\source\repos\WPF-Study\WPF-Study\obj\Debug\App.g.cs
+C:\Users\Rr1c0\source\repos\WPF-Study\WPF-Study\obj\Debug\MainWindow.g.cs
+C:\Users\Rr1c0\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF-Study_MarkupCompile.cache
+C:\Users\Rr1c0\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF-Study_MarkupCompile.lref
+C:\Users\Rr1c0\source\repos\WPF-Study\WPF-Study\obj\Debug\App.baml
+C:\Users\Rr1c0\source\repos\WPF-Study\WPF-Study\obj\Debug\MainWindow.baml
+C:\Users\Rr1c0\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF-Study.g.resources
+C:\Users\Rr1c0\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF_Study.Properties.Resources.resources
+C:\Users\Rr1c0\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF-Study.csproj.GenerateResource.cache
+C:\Users\Rr1c0\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF-Study.csproj.CoreCompileInputs.cache
+C:\Users\Rr1c0\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF-Study.exe
+C:\Users\Rr1c0\source\repos\WPF-Study\WPF-Study\obj\Debug\WPF-Study.pdb
+C:\Users\МалгонусоваА\Desktop\WPF-Study txt\WPF-Study\bin\Debug\WPF-Study.exe.config
+C:\Users\МалгонусоваА\Desktop\WPF-Study txt\WPF-Study\bin\Debug\WPF-Study.exe
+C:\Users\МалгонусоваА\Desktop\WPF-Study txt\WPF-Study\bin\Debug\WPF-Study.pdb
+C:\Users\МалгонусоваА\Desktop\WPF-Study txt\WPF-Study\obj\Debug\WPF-Study.csproj.AssemblyReference.cache
+C:\Users\МалгонусоваА\Desktop\WPF-Study txt\WPF-Study\obj\Debug\WPF-Study.csproj.SuggestedBindingRedirects.cache
+C:\Users\МалгонусоваА\Desktop\WPF-Study txt\WPF-Study\obj\Debug\App.g.cs
+C:\Users\МалгонусоваА\Desktop\WPF-Study txt\WPF-Study\obj\Debug\MainWindow.g.cs
+C:\Users\МалгонусоваА\Desktop\WPF-Study txt\WPF-Study\obj\Debug\WPF-Study_MarkupCompile.cache
+C:\Users\МалгонусоваА\Desktop\WPF-Study txt\WPF-Study\obj\Debug\WPF-Study_MarkupCompile.lref
+C:\Users\МалгонусоваА\Desktop\WPF-Study txt\WPF-Study\obj\Debug\App.baml
+C:\Users\МалгонусоваА\Desktop\WPF-Study txt\WPF-Study\obj\Debug\MainWindow.baml
+C:\Users\МалгонусоваА\Desktop\WPF-Study txt\WPF-Study\obj\Debug\WPF-Study.g.resources
+C:\Users\МалгонусоваА\Desktop\WPF-Study txt\WPF-Study\obj\Debug\WPF_Study.Properties.Resources.resources
+C:\Users\МалгонусоваА\Desktop\WPF-Study txt\WPF-Study\obj\Debug\WPF-Study.csproj.GenerateResource.cache
+C:\Users\МалгонусоваА\Desktop\WPF-Study txt\WPF-Study\obj\Debug\WPF-Study.csproj.CoreCompileInputs.cache
+C:\Users\МалгонусоваА\Desktop\WPF-Study txt\WPF-Study\obj\Debug\WPF-Study.exe
+C:\Users\МалгонусоваА\Desktop\WPF-Study txt\WPF-Study\obj\Debug\WPF-Study.pdb
+C:\Users\МалгонусоваА\Desktop\WPF-Study txt\WPF-Study\obj\Debug\CreateNotice.g.cs
+C:\Users\МалгонусоваА\Desktop\WPF-Study txt\WPF-Study\obj\Debug\CreateNotice.baml
+C:\Users\МалгонусоваА\Desktop\WPF-Study txt\WPF-Study\obj\Debug\Calendar.g.cs
+C:\Users\МалгонусоваА\Desktop\WPF-Study txt\WPF-Study\obj\Debug\Calendar.baml
+C:\Users\Адель\Desktop\WPF-Study txt\WPF-Study\bin\Debug\WPF-Study.exe.config
+C:\Users\Адель\Desktop\WPF-Study txt\WPF-Study\bin\Debug\WPF-Study.exe
+C:\Users\Адель\Desktop\WPF-Study txt\WPF-Study\bin\Debug\WPF-Study.pdb
+C:\Users\Адель\Desktop\WPF-Study txt\WPF-Study\obj\Debug\WPF-Study.csproj.AssemblyReference.cache
+C:\Users\Адель\Desktop\WPF-Study txt\WPF-Study\obj\Debug\WPF-Study.csproj.SuggestedBindingRedirects.cache
+C:\Users\Адель\Desktop\WPF-Study txt\WPF-Study\obj\Debug\App.g.cs
+C:\Users\Адель\Desktop\WPF-Study txt\WPF-Study\obj\Debug\Birthday.g.cs
+C:\Users\Адель\Desktop\WPF-Study txt\WPF-Study\obj\Debug\Calendar.g.cs
+C:\Users\Адель\Desktop\WPF-Study txt\WPF-Study\obj\Debug\CreateNotice.g.cs
+C:\Users\Адель\Desktop\WPF-Study txt\WPF-Study\obj\Debug\MainWindow.g.cs
+C:\Users\Адель\Desktop\WPF-Study txt\WPF-Study\obj\Debug\Work.g.cs
+C:\Users\Адель\Desktop\WPF-Study txt\WPF-Study\obj\Debug\WPF-Study_MarkupCompile.cache
+C:\Users\Адель\Desktop\WPF-Study txt\WPF-Study\obj\Debug\WPF-Study_MarkupCompile.lref
+C:\Users\Адель\Desktop\WPF-Study txt\WPF-Study\obj\Debug\App.baml
+C:\Users\Адель\Desktop\WPF-Study txt\WPF-Study\obj\Debug\Birthday.baml
+C:\Users\Адель\Desktop\WPF-Study txt\WPF-Study\obj\Debug\Calendar.baml
+C:\Users\Адель\Desktop\WPF-Study txt\WPF-Study\obj\Debug\CreateNotice.baml
+C:\Users\Адель\Desktop\WPF-Study txt\WPF-Study\obj\Debug\MainWindow.baml
+C:\Users\Адель\Desktop\WPF-Study txt\WPF-Study\obj\Debug\Work.baml
+C:\Users\Адель\Desktop\WPF-Study txt\WPF-Study\obj\Debug\WPF-Study.g.resources
+C:\Users\Адель\Desktop\WPF-Study txt\WPF-Study\obj\Debug\WPF_Study.Properties.Resources.resources
+C:\Users\Адель\Desktop\WPF-Study txt\WPF-Study\obj\Debug\WPF-Study.csproj.GenerateResource.cache
+C:\Users\Адель\Desktop\WPF-Study txt\WPF-Study\obj\Debug\WPF-Study.csproj.CoreCompileInputs.cache
+C:\Users\Адель\Desktop\WPF-Study txt\WPF-Study\obj\Debug\WPF-Study.exe
+C:\Users\Адель\Desktop\WPF-Study txt\WPF-Study\obj\Debug\WPF-Study.pdb
+C:\Users\МалгонусоваА\Desktop\WPF-Study txt\WPF-Study\obj\Debug\Birthday.g.cs
+C:\Users\МалгонусоваА\Desktop\WPF-Study txt\WPF-Study\obj\Debug\Work.g.cs
+C:\Users\МалгонусоваА\Desktop\WPF-Study txt\WPF-Study\obj\Debug\Birthday.baml
+C:\Users\МалгонусоваА\Desktop\WPF-Study txt\WPF-Study\obj\Debug\Work.baml
